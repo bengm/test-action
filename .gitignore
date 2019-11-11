@@ -1,7 +1,8 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+# NOTE: keep node_modules for a github action
+# /node_modules
 
 # testing
 /coverage
