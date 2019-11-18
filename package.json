@@ -19,6 +19,7 @@
   "homepage": "https://github.com/bengm/test-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.0",
-    "@actions/github": "^1.1.0"
+    "@actions/github": "^1.1.0",
+    "pa11y": "^5.3.0"
   }
 }
